@@ -1,5 +1,5 @@
 # King County House Price Prediction (Predictive Modeling)
-
+![Image Description](House2.jpg)
 ## Introduction
 
 The real estate market is a highly dynamic and competitive industry. As a homeowner or prospective buyer, it is crucial to understand the factors that influence house prices. This project aims to predict house prices in King County, using various models and evaluation metrics. The insights gained from this analysis can guide homeowners in making informed decisions and provide valuable information for real estate professionals.

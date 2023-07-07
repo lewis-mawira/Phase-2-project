@@ -87,6 +87,8 @@ For a detailed analysis, implementation code, and further insights, please refer
 
 Please note that the predictions and recommendations provided are based on historical data and models, and market conditions and individual property characteristics may impact actual house prices. It is advised to consider these recommendations as guidance and consult with real estate professionals for a comprehensive evaluation of specific properties and market dynamics.
 
+## link for slides presentation:
+https://docs.google.com/presentation/d/1EMti09xVp0t5W9XbeD4-iaZVAE-6scfyTInRI1s3LfU/edit#slide=id.g257fde49617_0_282
  
  
  
